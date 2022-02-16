@@ -85,7 +85,7 @@ Figure 2: Clicking on a badge from the base repository's `README.md` launches a 
 image::/assets/img/reviewing-pull-requests/ide.png[The Che-theia editor]
 Figure 3: The Che-Theia editor.
 
-After you launch the workspace, the web IDE will open automatically and you'll see that the project has been cloned already (see the Explorer view on the bottom-right).
+After you start the workspace, the web IDE will open automatically and you'll see that the project has been cloned already (see the Explorer view on the lower-right).
 
 To use the link:https://github.com/Microsoft/vscode-pull-request-github[GitHub Pull Requests and Issues] extension, you must first authenticate with GitHub by clicking on the Accounts icon on the bottom left of the editor. The extension adds the GitHub view to the sidebar and provides integration with GitHub. As a result, you can make PR comments, in-editor comments, approve PRs, and much more, all from the web IDE.
 
