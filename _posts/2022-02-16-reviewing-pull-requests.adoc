@@ -69,7 +69,7 @@ In the current state of the project, there are four endpoints:
 |Creates a Food resource
 |===
 
-It looks like your colleague has opened a new PR that adds a new `GET` endpoint, `/food/restaurant/{restaurantName}`. The endpoint retrieves a list of all `Food`` resources served from a specified restaurant:
+It looks like your colleague has opened a new PR that adds a new `GET` endpoint, `/food/restaurant/{restaurantName}`. The endpoint retrieves a list of all `Food` resources served from a specified restaurant:
 
 image::/assets/img/reviewing-pull-requests/pr.png[The pull request to review]
 Figure 1: The GitHub PR you need to review.
