@@ -24,7 +24,7 @@ You can refer to these articles on how to set up your project with {prod}:
 
 NOTE: Your project must contain a well-defined `devfile.yaml` file to make the most out of your development experience with {prod}. Use the devfile to define your project’s development environment such as development commands, containers, endpoints, and so on.
 
-WARNING: The following scenario uses devfile v2, and {prod} is deployed alongside the {devworkspace} engine currently not used on link:https://workspaces.openshift.com/[Eclipse Che Hosted by Red Hat]. To open the test GitHub project on Eclipse Che Hosted by Red Hat, please use the link:https://github.com/che-incubator/quarkus-api-example/tree/devfilev1[devfilev1] branch supports the deprecated devfile v1.
+WARNING: The following scenario uses devfile v2, and {prod} is deployed alongside the {devworkspace} engine which is currently not used on link:https://workspaces.openshift.com/[Eclipse Che Hosted by Red Hat]. To open the test GitHub project on Eclipse Che Hosted by Red Hat, please use the link:https://github.com/che-incubator/quarkus-api-example/tree/devfilev1[devfilev1] branch which supports the deprecated devfile v1.
 
 === The scenario
 
