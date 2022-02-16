@@ -101,7 +101,7 @@ After signing in, navigate to the GitHub view from the sidebar to see an overvie
 image::/assets/img/reviewing-pull-requests/github-view.png[Viewing the PR within the web IDE, 400]
 Figure 5: The GitHub view, opened by clicking on the fifth icon from the top.
 
-WARNING: If you launch a workspace with a badge generated using the link:https://github.com/marketplace/actions/try-in-web-ide[Try in Web IDE] GitHub action on a PR from a forked repository, you must manually set up git remotes in order to use the GitHub Pull Requests and Issues extension. Please see link:https://github.com/redhat-actions/try-in-web-ide/issues/14[redhat-actions/try-in-web-ide#14].
+WARNING: If you start a workspace with a badge generated using the link:https://github.com/marketplace/actions/try-in-web-ide[Try in Web IDE] GitHub action on a PR from a forked repository, you must manually set up Git remotes to use the GitHub Pull Requests and Issues extension. Please see link:https://github.com/redhat-actions/try-in-web-ide/issues/14[redhat-actions/try-in-web-ide#14].
 
 The "Description" menu item, as well as a file hierarchy with all changed files, are in the drop-down menu below the PR. In this case, the changed files are `FoodResource.java`, `FoodEndpointTest.java`, and `README.md`. Click on the files to open a diff view within the web IDE. Take a look at these files and verify that the PR adds a new endpoint, as well as a unit test.
 
