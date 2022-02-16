@@ -143,7 +143,7 @@ Next, access the new `/food/restaurant/{restaurantName}` endpoint. Here, you acc
 image::/assets/img/reviewing-pull-requests/access-endpoint.png[Accessing the new endpoint]
 Figure 11: Response from `/food/restaurant/Local Deli`.
 
-The response contains two `Food`` resources from the `Local Deli`` restaurant. This is a match with the `Food` resources from the this restaurant in the link:https://github.com/che-incubator/quarkus-api-example/blob/main/src/main/resources/import.sql[`import.sql`] file.
+The response contains two `Food` resources from the `Local Deli` restaurant. This is a match with the `Food` resources from this restaurant in the link:https://github.com/che-incubator/quarkus-api-example/blob/main/src/main/resources/import.sql[`import.sql`] file.
 
 === Providing feedback and merging the PR
 So far, you have successfully run tests, ran the build, as well as ran the application in development mode to verify that the PR is working correctly.
