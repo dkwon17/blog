@@ -105,7 +105,7 @@ WARNING: If you start a workspace with a badge generated using the link:https://
 
 The "Description" menu item, as well as a file hierarchy with all changed files, are in the drop-down menu below the PR. In this case, the changed files are `FoodResource.java`, `FoodEndpointTest.java`, and `README.md`. Click on the files to open a diff view within the web IDE. Examine these files and verify that the PR adds a new endpoint, as well as a unit test.
 
-Click on the "Description" menu item to open a new webview displaying the PR in a UI similar to GitHub. Check out the branch by clicking "Checkout" at the top right of Figure 6.
+Click on the "Description" menu item to open a new web view displaying the PR in a UI similar to GitHub. Check out the branch by clicking "Checkout" at the top right of Figure 6.
 
 image::/assets/img/reviewing-pull-requests/pr-view.png[Viewing the PR within the web IDE]
 Figure 6: A webview displaying details about the PR. This webview appears after clicking the "Description" menu item from Figure 5.
