@@ -108,7 +108,7 @@ The "Description" menu item, as well as a file hierarchy with all changed files,
 Click on the "Description" menu item to open a new web view displaying the PR in a UI similar to GitHub. Check out the branch by clicking "Checkout" at the top right of Figure 6.
 
 image::/assets/img/reviewing-pull-requests/pr-view.png[Viewing the PR within the web IDE]
-Figure 6: A webview displaying details about the PR. This webview appears after clicking the "Description" menu item from Figure 5.
+Figure 6: A webview displaying details about the PR. This web view appears after clicking the "Description" menu item from Figure 5.
 
 The test project comes with a preinstalled link:https://github.com/redhat-developer/vscode-java[Language support for Java ™] extension in the web IDE. With this extension, you can check the Problem view to verify that there are no compilation problems such as syntax errors.
 
