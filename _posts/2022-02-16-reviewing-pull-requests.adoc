@@ -78,7 +78,7 @@ Review this PR by launching a new {prod} workspace. Here you can verify the PR b
 
 Start the workspace and Web IDE editor on link:https://www.eclipse.org/che/docs/che-7/hosted-che/hosted-che/[Eclipse Che Hosted by Red Hat] by clicking the {prod} badge from the base GitHub repository's `README`:
 
-image::/assets/img/reviewing-pull-requests/badge.png[Badge used to launch workspaces]
+image::/assets/img/reviewing-pull-requests/badge.png[Badge used to start workspaces]
 Figure 2: Clicking on a badge from the base repository's `README.md` launches a developer workspace.
 
 === Launching a workspace and reviewing the PR
