@@ -116,7 +116,7 @@ image::/assets/img/reviewing-pull-requests/no-problems.png[No problems reported 
 Figure 7: No problems reported by the Java extension in the Problems view.
 
 === Running unit tests and building
-The devfile also defines commands for testing, building, and launching the application. Run the unit tests by opening the Workspace view from the right-hand side and clicking `(User Runtimes -> tools -> runtests)`.
+The devfile also defines commands for testing, building, and launching the application. Run the unit tests by opening the Workspace view from the right side and clicking `(User Runtimes -> tools -> runtests)`.
 
 This runs the test command (`./mvnw test`) within the `tools` container as specified in the devfile. You can view the test output in the output panel.
 
