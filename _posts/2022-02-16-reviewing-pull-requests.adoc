@@ -94,7 +94,7 @@ Click on "Sign in to user GitHub Pull Requests and Issues (1)".
 You will be prompted to enter your GitHub credentials to sign in.
 
 image::/assets/img/reviewing-pull-requests/sign-in.png[The context menu appears after clicking the Accounts icon, 600]
-Figure 4: The context menu appears after clicking the Accounts icon.
+Figure 4: The menu appears after clicking the Accounts icon.
 
 After signing in, navigate to the GitHub view from the sidebar to see an overview of PRs against the base repository. Under the "Assigned To Me" drop-down, you can see the PR that you'll review.
 
