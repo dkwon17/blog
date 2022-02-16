@@ -110,7 +110,7 @@ Click on the "Description" menu item to open a new web view displaying the PR in
 image::/assets/img/reviewing-pull-requests/pr-view.png[Viewing the PR within the web IDE]
 Figure 6: A webview displaying details about the PR. This web view appears after clicking the "Description" menu item from Figure 5.
 
-The test project comes with a preinstalled link:https://github.com/redhat-developer/vscode-java[Language support for Java ™] extension in the web IDE. With this extension, you can check the Problem view to verify that there are no compilation problems such as syntax errors.
+The test project includes a preinstalled link:https://github.com/redhat-developer/vscode-java[Language support for Java ™] extension in the web IDE. With this extension, you can check the Problem view to verify that there are no compilation problems such as syntax errors.
 
 image::/assets/img/reviewing-pull-requests/no-problems.png[No problems reported by the Java extension]
 Figure 7: No problems reported by the Java extension in the Problems view.
